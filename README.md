@@ -1,2 +1,2 @@
-# GoIt_Homework_1
+# goit-markup-hw-01
  1. Module 1. Basic HTML
